@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1653814443 source:c:\users\lenovo\downloads\c\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1653903062 source:e:\p1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
